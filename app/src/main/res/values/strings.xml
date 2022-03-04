@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UIChallange</string>
+    <array name="countries">
+        <item>Pakistan</item>
+        <item>Russia</item>
+        <item>Ukarain</item>
+        <item>Kiev</item>
+        <item>Kharkiev</item>
+    </array>
+</resources>
